@@ -9,7 +9,7 @@ This is my recipe for a meal replacement shake inspired by products like Ensure 
  - **Convenience**: Cooking, washing dishes, waiting in drive thrus, walking through grocery stores like an animal searching for feed—is this really how you want to spend your life? These chores become no longer a necessity to survive. Eating out or cooking becomes a *choice*, something you decide do for pleasure. And sometimes you just have better things to do than scrub a nasty pot or fill up the garbage with fast food wrappers. But it's up to you. At least you can have the *freedom* to choose.
  - **Doesn't taste nasty**: It tastes like nothing! No, not cardboard, *nothing*! You have to try it to believe it.
 
-# How do I use this?
+# Usage
 
 Take a look at the spreadsheet in this repo. Everything is delineated by weight, so you need a gram scale. Use 1600mL-2000mL of water (up to personal taste).
 
@@ -20,6 +20,10 @@ I recommend using a 1 gallon pitcher that seals (e.g., Sterilite). A stainless s
 To increase or decrease calories, adjust the amount of maltodextrin and/or soybean oil. These ingredients (more so maltodextrin) don't provide much useful nutrients other than its calories.
 
 If you have a problem with the formula, feel free to submit a PR.
+
+## Being able to diff .xlsx files with git
+
+``$ ./enable-xlsx-diffs.sh``
 
 
 # Rationale
