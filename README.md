@@ -35,19 +35,21 @@ If you have a problem with the formula, feel free to submit a PR.
 
 #### Adding ingredients that co-opt the off flavors of pea protein
 
-The idea is to fool your tastebuds into perceiving the bad flavors of peas as parts of other ingredients which can pull off having those flavors.
+The idea is to fool your tasting mechanisms into perceiving the bad flavors of peas as parts of other ingredients which can pull off having those flavors.
 
  - **Hemp protein** has a grassy, nutty taste.
  - **Peanut flour** is very nutty and beany.
  - **Cocoa powder** is bitter.
 
-#### Menthol to anaesthetize tastebuds
+#### Menthol to anesthetize tastebuds
 
 This is really the [secret weapon][7]. It can't taste bad if you can't taste it at all.
 
+The goal is to use just enough menthol to disrupt your tastebuds but below the threshold where you can actually taste the menthol. Menthol itself [is bitter][9]. We don't want a minty/menthol-flavored meal replacement.
+
 #### Sucralose (sweetness) to block bitterness
 
-Sucralose is preferable to regular table sugar not because of health/nutrition concerns but because sugar is not nearly as sweet as an equivalent weight of sucralose. The amount of sugar to replace even a tiny amount of sucralose would exceed the upper limit on solubility.
+Sucralose is preferable to regular table sugar not because of health/nutrition concerns but because sugar is not nearly as sweet as an equivalent weight of sucralose. The amount of sugar to replace even a tiny amount of sucralose would be too much to even dissolve.
 
 
 ## On maltodextrin and sugar
@@ -164,3 +166,4 @@ The one benefit of this is that it's dirt cheap (at least in the USA). It has a 
   [6]: https://www.mskcc.org/cancer-care/integrative-medicine/herbs/stevia
   [7]: https://www.ncbi.nlm.nih.gov/pubmed/10981623
   [8]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2802046/
+  [9]: https://www.ncbi.nlm.nih.gov/pubmed/12502523
