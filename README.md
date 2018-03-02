@@ -41,7 +41,8 @@ If you have a problem with the formula, feel free to submit a PR.
 
 The idea is to fool your tasting mechanisms into perceiving the bad flavors of peas as parts of other ingredients which can pull off having those flavors.
 
- - **Hemp protein** has a grassy, nutty taste.
+ - ~~**Hemp protein** has a grassy, nutty taste.~~
+ - **Rice bran** has a slight nutty taste.
  - **Peanut flour** is very nutty and beany.
  - **Cocoa powder** is bitter.
 
@@ -170,7 +171,9 @@ Hemp protein works for this. It provides protein, adds to the flavor profile, an
  1. There are always black hemp husks that never quite dissolve and sink to the bottom.
  2. Texture is a bit gritty.
 
-Corn bran or wheat bran are cheap and [high in insoluble fiber][10].
+**Rice bran**, corn bran, or wheat bran are cheap and [high in insoluble fiber][10].
+
+![nutrition data for stabilized rice bran from manufacturer](https://i.imgur.com/jv5MIhs.png)
 
 ### Write more detailed explanation on preparation techniques
 
