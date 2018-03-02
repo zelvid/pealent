@@ -6,7 +6,7 @@ This is my recipe for a meal replacement shake inspired by products like Ensure 
  - **Vegan**: This can be scaled up massively without nuking the environment. Also, you know, it's nice not to have to eat animal flesh just to survive.
  - **Total nutrition**: ~~This article says X food causes cancer!~~ ~~Am I getting enough vitamins?~~ ~~I don't think I'm getting enough protein.~~ ~~I keep getting sleepy after lunch.~~ ~~Isn't this fattening?~~ All these food-related problems are solved for you.
  - **High protein**: 150g of protein per day. To get this much protein, you'd have to eat 24 ounces of steak or 3 lbs of cottage cheese (2 standard containers). High protein helps you feel full throughout the day.
- - **Convenience**: Cooking, washing dishes, waiting in drive thrus—is this really how you want to spend your life? These chores become no longer a necessity to survive. Eating out or cooking becomes a *choice*, something you decide do for pleasure. And sometimes you just have better things to do than scrub a nasty pot or fill up the garbage with fast food wrappers. But it's up to you. At least you can have the *freedom* to choose.
+ - **Convenience**: Cooking, washing dishes, waiting in drive thrus, walking through grocery stores like an animal searching for feed—is this really how you want to spend your life? These chores become no longer a necessity to survive. Eating out or cooking becomes a *choice*, something you decide do for pleasure. And sometimes you just have better things to do than scrub a nasty pot or fill up the garbage with fast food wrappers. But it's up to you. At least you can have the *freedom* to choose.
 
 # How do I use this?
 
@@ -130,7 +130,7 @@ I spent several months tweaking the formula before arriving at what I have now. 
  0. The obvious, somewhat ideological issue of it being non-vegan.
  1. If you let it go bad, it will smell like a rotting corpse.
  2. Whey lacks any bitterness, saltiness, or astringency. This would seem like a good thing…if perhaps you were making a dessert product instead of something that's supposed to replace a traditional meal that has a full spectrum of flavors builtin.
- 3. Virtually all cheap whey protein has non-trivial levels of heavy metals—more so with Chinese whey, which dominates the market. (Pea protein, on the other hand, cannot have any non-trivial amounts of heavy metals because the pea plant does not uptake heavy metals from soil.)
+ 3. Virtually all cheap whey protein have non-trivial levels of heavy metals—more so with Chinese whey, which dominates the market. (Pea protein, on the other hand, cannot have any non-trivial amounts of heavy metals because the pea plant does not uptake heavy metals from soil.)
  4. Hormones (e.g., estrogen, progesterone) from cow milk.
  5. Expensive. It costs double what soy or pea protein costs.
 
