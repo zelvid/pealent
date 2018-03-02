@@ -11,7 +11,7 @@ This is my recipe for a meal replacement shake inspired by products like Ensure 
 
 # Usage
 
-Take a look at the spreadsheet in this repo. Everything is delineated by weight, so you need a gram scale. Use 1600mL-2000mL of water (up to personal taste).
+Take a look at the spreadsheet in this repo. Everything is delineated by weight, so you need a gram scale. Use 1600mL of water (give or take depending on your own personal taste).
 
 You can find all the ingredients on Amazon. I recommend buying the smallest consumer quantities you can just to see if you like it first. If you like it, buy everything in bulk and make 1 month batches.
 
@@ -148,7 +148,7 @@ I had the idea of using MSG to impart the "umami" (read: savory) flavor profile.
  0. MSG can cross the blood-brain-barrier and cause [brain damage at doses normally found in food][8]. Yeah, yeah, I was also a skeptic before who would say, "This is pseudoscience. Glutamate is just an amino acid. It's not any different than eating any protein source." Just refer to that study. Digestion is more complicated than that simplistic model. There are many cases of amino acids being used in isolation to cause specific effects.
  1. Ajitide I+G doesn't have the same deleterious effect as MSG. Problem: Disodium 5'-guanylate is made from fish. It would seem silly to make the recipe non-vegan for the sake of this one ingredient that offers dubious improvements to the overall taste.
 
-There are some other savory agents often cited like yeast extract, nutritional yeast, tomato extract, and kombu seaweed, but the only reason they are savory is because they happen to be naturally high in glutamate (i.e., MSG). By the way, using these ingredients is a way food manufacturers get away with saying they removed MSG from their products.
+There are some other savory agents often cited like yeast extract, nutritional yeast, tomato extract, and kombu seaweed, but the only reason they are savory is that they happen to be naturally high in glutamate (i.e., MSG). By the way, using these ingredients is a way food manufacturers get away with saying they removed MSG from their products.
 
 Making the recipe high in protein (pea protein) is enough to make the recipe slightly savory. After all, the evolutionary purpose of the "umami" taste is to encourage us to consume protein, so there you go.
 
@@ -160,7 +160,19 @@ This absolutely destroys the texture of the final product. Being mostly soluble 
 
 The one benefit of this is that it's dirt cheap (at least in the USA). It has a terrible, gritty texture that scratches your throat as you drink it.
 
+## TODO
 
+### Using another fiber source
+
+Hemp protein works for this. It provides protein, adds to the flavor profile, and is of the preferable insoluble type of fiber. Problems:
+
+ 0. It's expensive.
+ 1. There are always black hemp husks that never quite dissolve and sink to the bottom.
+ 2. Texture is a bit gritty.
+
+Corn bran or wheat bran are cheap and [high in insoluble fiber][10].
+
+### Write more detailed explanation on preparation techniques
 
   [1]: https://ensure.com/nutrition-products/ensure-original
   [2]: https://www.npr.org/sections/thesalt/2014/09/17/349270927/diet-soda-may-alter-our-gut-microbes-and-the-risk-of-diabetes
@@ -171,3 +183,4 @@ The one benefit of this is that it's dirt cheap (at least in the USA). It has a 
   [7]: https://www.ncbi.nlm.nih.gov/pubmed/10981623
   [8]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2802046/
   [9]: https://www.ncbi.nlm.nih.gov/pubmed/12502523
+  [10]: https://www.prebiotin.com/prebiotin-academy/fiber-content-of-foods/
